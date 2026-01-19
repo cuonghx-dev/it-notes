@@ -116,7 +116,7 @@ Agent đọc file và suy luận:
 - Suy luận = **Tốn tokens** (phải "nghĩ")
 - Suy luận = **Có thể sai** (hiểu nhầm format)
 
-### So sánh với Beads:
+#### So sánh với Beads:
 
 ```bash
 $ bd ready --json
@@ -221,7 +221,7 @@ Session đang chạy:
     → Code cũ có thể bị overwrite!
 ```
 
-### So sánh với Beads:
+#### So sánh với Beads:
 
 ```bash
 # TRƯỚC compact - Agent ghi lại progress
@@ -274,7 +274,7 @@ Git merge:
 → CONFLICT! Phải resolve thủ công
 ```
 
-### So sánh với Beads:
+#### So sánh với Beads:
 
 ```bash
 # Alice tạo task
